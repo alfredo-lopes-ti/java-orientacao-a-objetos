@@ -1,9 +1,11 @@
+package heranca.animais;
+
 public class Cachorro extends Animal {
     String raca;
 
-    public Cachorro(String nome,  String raca) {
+    public Cachorro(String nome, String raca) {
         super(nome);
-        this.raca = raca; // chama o construtor do animal
+        this.raca = raca;
     }
 
     @Override

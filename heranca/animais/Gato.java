@@ -1,3 +1,5 @@
+package heranca.animais;
+
 public class Gato extends Animal {
 
     public Gato(String nome) {

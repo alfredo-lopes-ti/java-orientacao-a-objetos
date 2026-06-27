@@ -1,5 +1,7 @@
+package heranca.animais;
+
 public class Animal {
-    String nome;
+    public String nome;
 
     public Animal(String nome) {
         this.nome = nome;
