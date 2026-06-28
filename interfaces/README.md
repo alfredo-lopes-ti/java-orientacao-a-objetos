@@ -98,4 +98,8 @@ Cada objeto responde do seu jeito ao mesmo método. Isso é **polimorfismo**.
 2. `implements` pode receber múltiplas interfaces separadas por vírgula
 3. Uma variável do tipo da interface aceita qualquer classe que a implemente
 4. Passar a interface como parâmetro de método desacopla quem chama de quem executa
+<<<<<<< HEAD
 5. Arrays e listas de interface permitem tratar objetos diferentes de forma uniforme
+=======
+5. Arrays e listas de interface permitem tratar objetos diferentes de forma uniforme
+>>>>>>> 82a22922d7db6944ed3009a1e4d1b00967b0c0c6
