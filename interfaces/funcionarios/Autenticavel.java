@@ -1,4 +1,7 @@
 package interfaces.funcionarios;
 
-public class Autenticavel {
+public interface Autenticavel {
+
+    boolean autenticar (String senha);
+    String getNome();
 }
