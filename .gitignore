@@ -1,0 +1,13 @@
+# Ignorar arquivos compilados pelo Maven
+target/
+
+# Ignorar arquivos compilados antigos do IntelliJ
+out/
+
+# Ignorar configurações internas do IntelliJ
+.idea/
+*.iml
+
+# Ignorar credenciais ou propriedades locais (onde estão suas senhas do MySQL)
+*.properties
+*.local
