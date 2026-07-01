@@ -1,4 +1,4 @@
-package database;
+package database.exercicio_fabrica;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
