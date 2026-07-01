@@ -10,6 +10,12 @@ public class Square {
     public Square() {
     }
 
+    // Novo construtor customizado (sobrecarga)
+    // Permite fazer: Square s = new Square(3.5);
+    public Square(double side) {
+        setSide(side); // chama o setter para já validar o valor no nascimento
+    }
+
     // Setter: Método público que serve como a única porta de entrada para modificar o atributo
     public void setSide(double side) {
         // Regra de Negócio: impede que o sistema aceite dados geometricamente inválidos

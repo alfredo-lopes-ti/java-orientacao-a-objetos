@@ -12,9 +12,13 @@ public class ProgramSquare {
         Scanner input = new Scanner(System.in);
 
         // Instanciando o objeto quadrado na memória
-        Square square = new Square();
+        //Square square = new Square();
 
         System.out.print("Enter the side of the square: ");
+        double sideValue = input.nextDouble(); // 1. Captura primeiro
+
+        // 2. Instancia passando o valor direto no "nascimento" do objeto
+        Square square = new Square(sideValue);
 
         // Capturando o valor digitado e enviando de forma segura através do Setter
         square.setSide(input.nextDouble());
