@@ -15,13 +15,13 @@ public class ProgramSquare {
 
         System.out.print("Enter the side of the square: ");
         // Capturando o valor digitado e jogando no atributo do objeto
-        square.setSide(input.nextDouble());
+        square.side = input.nextDouble();
 
         // Chamando o metodo para calcular a area
         double area = square.area();
 
         // Exibindo o resuldado
-        System.out.println("The area of the square with side " + square.getSide() + " is: " + area);
+        System.out.println("The area of the square is: " + area);
 
         input.close();
 
