@@ -1,4 +1,4 @@
-package _01_introducao_oo.area_retangulo.aplication;
+package _01_introducao_oo.area_retangulo.application;
 
 import _01_introducao_oo.area_retangulo.entities.Rectangle;
 

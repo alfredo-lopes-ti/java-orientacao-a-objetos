@@ -1,4 +1,4 @@
-package _01_introducao_oo.company_employee.aplication;
+package _01_introducao_oo.company_employee.application;
 
 import _01_introducao_oo.company_employee.entities.Employee;
 

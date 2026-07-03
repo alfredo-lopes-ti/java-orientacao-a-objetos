@@ -1,4 +1,4 @@
-package _01_introducao_oo.area_triangulo.aplication;
+package _01_introducao_oo.area_triangulo.application;
 
 import _01_introducao_oo.area_triangulo.entities.Triangle;
 

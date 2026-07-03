@@ -1,4 +1,4 @@
-package _01_introducao_oo.area_quadrado.aplication;
+package _01_introducao_oo.area_quadrado.application;
 
 import _01_introducao_oo.area_quadrado.entities.Square;
 import java.util.Scanner;
