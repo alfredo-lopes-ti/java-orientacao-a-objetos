@@ -45,7 +45,7 @@ saber qual é.
 | `PagamentoCartao.java` | Classe | Implementa `Pagavel` com parcelamento |
 | `PagamentoBoleto.java` | Classe | Implementa `Pagavel` com código de barras |
 | `Caixa.java` | Classe | Processa qualquer `Pagavel` sem conhecer o tipo concreto |
-| `MainPagamento.java` | veiculos.heranca.Main | Testa o fluxo completo |
+| `MainPagamento.java` | veiculos.heranca.entities.Main | Testa o fluxo completo |
 
 ### Conceito-chave demonstrado
 
@@ -72,7 +72,7 @@ tempo — algo impossível com herança, mas natural com interfaces.
 | `Gerenciavel.java` | Interface | Contrato com `promover()` e `calcularBonus()` |
 | `Funcionario.java` | Classe | Implementa apenas `Autenticavel` |
 | `Gerente.java` | Classe | Implementa `Autenticavel` **e** `Gerenciavel` |
-| `MainFuncionario.java` | veiculos.heranca.Main | Testa autenticação, promoção e array de interface |
+| `MainFuncionario.java` | veiculos.heranca.entities.Main | Testa autenticação, promoção e array de interface |
 
 ### Conceito-chave demonstrado
 

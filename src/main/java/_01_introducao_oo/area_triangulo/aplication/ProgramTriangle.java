@@ -1,6 +1,6 @@
-package aplication;
+package _01_introducao_oo.area_triangulo.aplication;
 
-import entities.Triangle;
+import _01_introducao_oo.area_triangulo.entities.Triangle;
 
 import java.util.Locale;
 import java.util.Scanner;

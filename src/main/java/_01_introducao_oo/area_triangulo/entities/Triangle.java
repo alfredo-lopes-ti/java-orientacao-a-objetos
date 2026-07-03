@@ -1,4 +1,4 @@
-package entities;
+package _01_introducao_oo.area_triangulo.entities;
 
 public class Triangle {
     // Atributos (as características do triângulo)

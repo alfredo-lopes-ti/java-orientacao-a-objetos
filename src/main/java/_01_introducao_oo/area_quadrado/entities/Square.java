@@ -1,4 +1,4 @@
-package entities;
+package _01_introducao_oo.area_quadrado.entities;
 
 public class Square {
     // Atributos (as características do quadrado

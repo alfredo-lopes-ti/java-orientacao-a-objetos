@@ -53,7 +53,7 @@ repor quantidade zero, definir preço negativo).
 | Arquivo | Tipo | Descrição |
 |---|---|---|
 | `Produto.java` | Classe | Produto com atributos privados, getters, setters e comportamentos |
-| `MainProduto.java` | veiculos.heranca.Main | Testa movimentações válidas e tentativas de valores inválidos |
+| `MainProduto.java` | veiculos.heranca.entities.Main | Testa movimentações válidas e tentativas de valores inválidos |
 
 ### Estrutura da classe Produto
 

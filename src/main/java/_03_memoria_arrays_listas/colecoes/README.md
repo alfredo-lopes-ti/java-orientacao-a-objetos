@@ -45,7 +45,7 @@ como índice de busca rápida por ID, além de agrupar produtos por categoria.
 |---|---|---|
 | `Produto.java` | Classe | Modelo de produto com id, nome, categoria, preço e estoque |
 | `EstoqueService.java` | Classe | Lógica de negócio: adicionar, buscar, agrupar, remover |
-| `MainEstoque.java` | veiculos.heranca.Main | Testa todas as operações |
+| `MainEstoque.java` | veiculos.heranca.entities.Main | Testa todas as operações |
 
 ### Por que ArrayList **e** HashMap juntos?
 

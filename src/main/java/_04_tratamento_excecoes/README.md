@@ -47,7 +47,7 @@ detalhadas sobre o erro — saldo atual e valor solicitado.
 |---|---|---|
 | `SaldoInsuficienteException.java` | Exception customizada | Estende `Exception`, carrega `saldoAtual` e `valorSolicitado` |
 | `ContaBancaria.java` | Classe | Operações bancárias com `throws SaldoInsuficienteException` |
-| `MainConta.java` | veiculos.heranca.Main | Testa operações válidas e cenários de erro |
+| `MainConta.java` | veiculos.heranca.entities.Main | Testa operações válidas e cenários de erro |
 
 ---
 

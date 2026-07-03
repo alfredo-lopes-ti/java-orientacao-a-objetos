@@ -1,6 +1,6 @@
-package aplication;
+package _01_introducao_oo.area_quadrado.aplication;
 
-import entities.Square;
+import _01_introducao_oo.area_quadrado.entities.Square;
 import java.util.Scanner;
 import java.util.Locale;
 
