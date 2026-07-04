@@ -1,4 +1,4 @@
-package interfaces.pagamento;
+package _05_interfaces_polimorfismo.pagamento;
 
 public class MainPagamento {
 

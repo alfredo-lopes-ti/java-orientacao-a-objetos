@@ -1,17 +1,17 @@
-package application;
+package _01_introducao_oo.market_produtos.application;
 
-import entities.product;
+import _01_introducao_oo.market_produtos.entities.Product;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class program {
+public class Program {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        product product = new product();
+        Product product = new Product();
 
         // Leitura dos dados do produto
         System.out.println("Enter product details: ");

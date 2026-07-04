@@ -1,4 +1,4 @@
-package classes_abstratas.veiculos;
+package _05_interfaces_polimorfismo.classes_abstratas.veiculos;
 
 public class Moto extends Veiculo {
     public int cilindradas;

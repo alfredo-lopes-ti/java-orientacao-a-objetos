@@ -1,4 +1,4 @@
-package interfaces.funcionarios;
+package _05_interfaces_polimorfismo.funcionarios;
 
 public interface Gerenciavel {
 

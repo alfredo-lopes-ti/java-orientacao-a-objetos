@@ -1,4 +1,4 @@
-package heranca.animais;
+package _05_interfaces_polimorfismo.heranca.animais;
 
 public class Cachorro extends Animal {
     String raca;

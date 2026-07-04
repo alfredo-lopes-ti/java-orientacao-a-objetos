@@ -1,4 +1,4 @@
-package database.exercicio_fabrica;
+package _06_banco_de_dados_jdbc.exercicio_fabrica;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;

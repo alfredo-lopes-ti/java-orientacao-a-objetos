@@ -1,4 +1,4 @@
-package classes_abstratas.formas;
+package _05_interfaces_polimorfismo.classes_abstratas.formas;
 
 public class Retangulo extends Forma {
     double largura;

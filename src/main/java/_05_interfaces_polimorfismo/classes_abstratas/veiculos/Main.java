@@ -1,4 +1,4 @@
-package classes_abstratas.veiculos;
+package _05_interfaces_polimorfismo.classes_abstratas.veiculos;
 
 // Classe principal, apenas para testar tudo junto
 public class Main {

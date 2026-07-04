@@ -1,4 +1,4 @@
-package interfaces.pagamento;
+package _05_interfaces_polimorfismo.pagamento;
 
 // "implements" é a palavra usada com interfaces
 // (diferente de "extends" que usamos com classes)

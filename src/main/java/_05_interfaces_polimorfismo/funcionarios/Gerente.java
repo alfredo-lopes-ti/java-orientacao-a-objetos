@@ -1,4 +1,4 @@
-package interfaces.funcionarios;
+package _05_interfaces_polimorfismo.funcionarios;
 
 // Gerente assina os dois contratos ao mesmo tempo
 // sepatados por vírgula após "implements"

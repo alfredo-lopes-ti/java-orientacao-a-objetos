@@ -1,4 +1,4 @@
-package exceptions;
+package _04_tratamento_excecoes;
 
 public class MainConta {
 

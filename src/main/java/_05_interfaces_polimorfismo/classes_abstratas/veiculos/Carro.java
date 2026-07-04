@@ -1,4 +1,4 @@
-package classes_abstratas.veiculos;
+package _05_interfaces_polimorfismo.classes_abstratas.veiculos;
 
 public class Carro extends Veiculo{
     // Atributo próprio da classe veiculos.heranca.Carro

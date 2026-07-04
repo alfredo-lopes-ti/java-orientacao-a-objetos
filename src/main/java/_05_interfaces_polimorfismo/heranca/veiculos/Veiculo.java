@@ -1,4 +1,4 @@
-package heranca.veiculos;
+package _05_interfaces_polimorfismo.heranca.veiculos;
 
 public class Veiculo {
 

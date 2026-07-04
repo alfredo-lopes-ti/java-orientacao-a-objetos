@@ -1,10 +1,10 @@
-package database.exercicio_loja;
+package _06_banco_de_dados_jdbc.exercicio_loja;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.Scanner;
-import database.exercicio_fabrica.FabricaConexao;
+import _06_banco_de_dados_jdbc.exercicio_fabrica.FabricaConexao;
 
 public class InserirProduto {
     public static void main(String[] args) {

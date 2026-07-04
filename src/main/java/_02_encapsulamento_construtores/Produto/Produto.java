@@ -1,4 +1,4 @@
-package encapsulamento;
+package _02_encapsulamento_construtores.produto;
 
 public class Produto {
 

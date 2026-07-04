@@ -1,6 +1,6 @@
-package entities;
+package _01_introducao_oo.market_produtos.entities;
 
-public class product {
+public class Product {
     public String name;
     public double price;
     public int quantity;

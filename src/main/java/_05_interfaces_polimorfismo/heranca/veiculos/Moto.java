@@ -1,4 +1,4 @@
-package heranca.veiculos;
+package _05_interfaces_polimorfismo.heranca.veiculos;
 
 public class Moto extends Veiculo{
     int cilindrada;

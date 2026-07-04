@@ -1,9 +1,9 @@
-package database.exercicio_loja;
+package _06_banco_de_dados_jdbc.exercicio_loja;
 
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.sql.Statement;
-import database.exercicio_fabrica.FabricaConexao; // Importamos a fábrica que está na pasta exercicio_fabrica
+import _06_banco_de_dados_jdbc.exercicio_fabrica.FabricaConexao; // Importamos a fábrica que está na pasta exercicio_fabrica
 
 import javax.swing.*;
 

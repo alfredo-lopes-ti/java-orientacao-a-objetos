@@ -1,4 +1,4 @@
-package interfaces.funcionarios;
+package _05_interfaces_polimorfismo.funcionarios;
 
 // Funcionario assina apenas um contrato: Autenticavel
 public class Funcionario implements Autenticavel{

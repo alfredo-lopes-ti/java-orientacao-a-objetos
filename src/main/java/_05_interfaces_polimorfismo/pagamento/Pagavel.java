@@ -1,4 +1,4 @@
-package interfaces.pagamento;
+package _05_interfaces_polimorfismo.pagamento;
 
 // A palavra "interface" substitui "class"
 // Não é uma classe, é um contrato puro

@@ -1,4 +1,4 @@
-package exceptions;
+package _04_tratamento_excecoes;
 
 // Estende Exception - isso a torna "checked exception"
 // ou seja, quem chamar o metodo que lança essa exception

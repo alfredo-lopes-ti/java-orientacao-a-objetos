@@ -1,4 +1,4 @@
-package classes_abstratas.veiculos; // Classe abstrata veiculos.heranca.Veiculo apenas para ser herdada
+package _05_interfaces_polimorfismo.classes_abstratas.veiculos; // Classe abstrata veiculos.heranca.Veiculo apenas para ser herdada
 
 public abstract class Veiculo {
     public String marca;
