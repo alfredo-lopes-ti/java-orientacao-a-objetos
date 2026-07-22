@@ -1,8 +1,9 @@
-package _02_encapsulamento_construtores.Produtos2.aplication;
+package _02_encapsulamento_construtores.produtos_2.aplication;
 
-import _02_encapsulamento_construtores.Produtos2.entities.Product;
 import java.util.Locale;
 import java.util.Scanner;
+
+import _02_encapsulamento_construtores.produtos_2.entities.Product;
 
 public class Program {
 
@@ -20,6 +21,9 @@ public class Program {
         int quantity = sc.nextInt();
         Product product = new Product(name, price, quantity);
         System.out.println(product);
+
+        product.setName("computer");
+        System.out.println("Updated name: " + product.getName());
 
         Product p1 = new Product("TV", 500.00, 10);
         Product p2 = new Product("Notebook", 1200.00, 5);

@@ -1,4 +1,4 @@
-package _02_encapsulamento_construtores.produto;
+package _02_encapsulamento_construtores.produto_1;
 
 public class MainProduto {
     public static void main(String[] args) {

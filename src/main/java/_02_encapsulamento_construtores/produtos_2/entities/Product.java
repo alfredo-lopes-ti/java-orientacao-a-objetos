@@ -1,10 +1,15 @@
-package _02_encapsulamento_construtores.Produtos2.entities;
+package _02_encapsulamento_construtores.produtos_2.entities;
 
 public class Product {
 
-    public String name;
-    public double price;
-    public int quantity;
+    // Atributos
+    private String name;
+    private double price;
+    private int quantity;
+
+    // Construtores
+    public Product() {
+    }
 
     public Product(String name, double price, int quantity) {
         this.name = name;
@@ -12,6 +17,36 @@ public class Product {
         this.quantity = quantity;
     }
 
+    public Product(String name, double price) {
+        this.name = name;
+        this.price = price;
+        this.quantity = 0;
+    }
+
+
+    // Getters e Setters
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
+    }
+
+    public int getQuantity() {
+        return quantity;
+    }
+
+
+    // Métodos
     public double totalValueInStock() {
         return price * quantity;
     }
